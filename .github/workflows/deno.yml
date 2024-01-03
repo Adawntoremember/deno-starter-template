@@ -1,4 +1,4 @@
-name: Deno app build and testing
+https://github.com/Adawntoremember/deno-starter-template/blob/main/.github%2Fworkflows%2Fdeno.ymlname: Deno app build and testing
 
 on:
   push:
